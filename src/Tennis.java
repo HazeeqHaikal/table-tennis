@@ -57,8 +57,8 @@ public class Tennis extends JPanel implements Runnable, KeyListener {
         if(!gameStarted) {
             gfx.setColor(Color.white);
             gfx.setFont(new Font("Arial", Font.BOLD, 20));
-            gfx.drawString("Tennis", 340, 100);
-            gfx.drawString("Press Enter to Begin...", 310, 130);
+            gfx.drawString("Tennis", 300, 100);
+            gfx.drawString("Press Enter to Begin...", 240, 130);
         }
         g.drawImage(img, 0, 0, this);
     }

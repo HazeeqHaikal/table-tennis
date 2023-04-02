@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cea1ecf-4add-4d5a-b4a1-8d442a0ed065" name="Changes" comment="80% progress">
-      <change afterPath="$PROJECT_DIR$/src/AIPaddle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ball.java" afterDir="false" />
+    <list default="true" id="8cea1ecf-4add-4d5a-b4a1-8d442a0ed065" name="Changes" comment="finished basic pong">
       <change beforePath="$PROJECT_DIR$/src/Tennis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tennis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +77,7 @@
       <workItem from="1680383638752" duration="4893000" />
       <workItem from="1680405830743" duration="1423000" />
       <workItem from="1680407280253" duration="1560000" />
-      <workItem from="1680409165410" duration="1057000" />
+      <workItem from="1680409165410" duration="1372000" />
     </task>
     <task id="LOCAL-00001" summary="first progress">
       <created>1680015004743</created>
@@ -96,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680347440285</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finished basic pong">
+      <created>1680410468784</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680410468784</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first progress" />
     <MESSAGE value="80% progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="80% progress" />
+    <MESSAGE value="finished basic pong" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished basic pong" />
   </component>
 </project>
