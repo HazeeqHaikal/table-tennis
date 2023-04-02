@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cea1ecf-4add-4d5a-b4a1-8d442a0ed065" name="Changes" comment="first progress">
-      <change afterPath="$PROJECT_DIR$/src/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HumanPaddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Paddle.java" afterDir="false" />
+    <list default="true" id="8cea1ecf-4add-4d5a-b4a1-8d442a0ed065" name="Changes" comment="80% progress">
+      <change afterPath="$PROJECT_DIR$/src/AIPaddle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ball.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tennis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tennis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +76,11 @@
       <workItem from="1680268776313" duration="6356000" />
       <workItem from="1680290446712" duration="30000" />
       <workItem from="1680290563328" duration="167000" />
+      <workItem from="1680347375535" duration="659000" />
+      <workItem from="1680383638752" duration="4893000" />
+      <workItem from="1680405830743" duration="1423000" />
+      <workItem from="1680407280253" duration="1560000" />
+      <workItem from="1680409165410" duration="1057000" />
     </task>
     <task id="LOCAL-00001" summary="first progress">
       <created>1680015004743</created>
@@ -86,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680015004743</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="80% progress">
+      <created>1680347440285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680347440285</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="first progress" />
+    <MESSAGE value="80% progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="80% progress" />
   </component>
 </project>
